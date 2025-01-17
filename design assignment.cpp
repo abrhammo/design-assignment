@@ -2,6 +2,7 @@
 #include <vector>
 #include <iomanip>
 
+// thia is a source code for algorthim design assignment
 // Function to predict stock prices using a weighted moving average
 std::vector<double> predictStockPrices(const std::vector<double> &historicalPrices, int predictionDays)
 {
